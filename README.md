@@ -1,2 +1,3 @@
-# Kalkulator
+# Paralaxx dari @codehaal
+
 Suki
